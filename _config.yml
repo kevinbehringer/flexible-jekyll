@@ -2,7 +2,7 @@ title: Kevin Behringer
 description: >  # this means to ignore newlines until "baseurl:"
   I am thrilled to be considered as a candidate for the UW-Green Bay Manager of Web Operations. My affinity for the school and expertise in web design, development, and marketing make me uniquely suited for this position.
 permalink: ':title/'
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kevinbehringer.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
