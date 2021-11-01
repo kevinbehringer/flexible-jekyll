@@ -12,4 +12,6 @@ I also did copy writing and editing for some sections with the client, as well a
 
 <a href="https://retireerebels.com">Retiree Rebels Website »</a>
 
-<img src="/flexible-jekyll/assets/img/rebels-full.jpg" alt="Retiree Rebels">
+
+
+<img src="/assets/img/rebels-full.jpg" alt="Retiree Rebels">
