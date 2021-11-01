@@ -4,7 +4,7 @@ title: Retiree Rebels
 description: I designed and implemented this site, as well as processed and posted podcast episodes
 img: rebels-banner.jpg # Add image post (optional)
 ---
-This is a site for an author and podcaster. 
+This is a site for an author and podcaster on Wordpress. 
 
 I developed the design for the site, built the site, and developed creative assets for the site. 
 
