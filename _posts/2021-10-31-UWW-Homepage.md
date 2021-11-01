@@ -8,4 +8,6 @@ I was part of a team that redesigned the homepage of the UW-Whitewater website. 
 
 When the site was approved, I worked with our front-end developer to implement the design, including creating design elements for the page, assisting with coding for some of the layouts and content creation.
 
+<a href="https://uww.edu">UW-Whitewater Website »</a>
+
 <img src="/flexible-jekyll/assets/img/uww-full.jpg" alt="UWW">
