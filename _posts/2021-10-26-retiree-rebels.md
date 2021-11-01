@@ -10,4 +10,6 @@ I developed the design for the site, built the site, and developed creative asse
 
 I also did copy writing and editing for some sections with the client, as well as processing and uploading of podcasts to the site.
 
+<a href="https://retireerebels.com">Retiree Rebels Website »</a>
+
 <img src="/flexible-jekyll/assets/img/rebels-full.jpg" alt="Retiree Rebels">
