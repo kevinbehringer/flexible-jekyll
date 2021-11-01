@@ -8,4 +8,6 @@ I designed and developed this site on Squarespace.
 
 I developed and implemented the design, completed most of the copy writing, developed creative assets, established the podcast section for the weekly sermon files, and continue to update the site.
 
+<a href="http://riverhillsonline.org">River Hills Community Church Website »</a>
+
 <img src="/flexible-jekyll/assets/img/rhcc-full.jpg" alt="River Hills Community Church">
