@@ -10,4 +10,4 @@ I designed the site, created and implemented creative assets, adjusted sections 
 
 The site is set to launch later this year, so is unavilable online for review at this point.
 
-<img src="/flexible-jekyll/assets/img/knapton-full.jpg" alt="Knapton Musik Knotes">
+<img src="/assets/img/knapton-full.jpg" alt="Knapton Musik Knotes">
