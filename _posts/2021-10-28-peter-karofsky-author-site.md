@@ -10,4 +10,4 @@ After developing the design, I implemented copy from the author and developed cr
 
 The author has since let the site expire as it was for a temporary project.
 
-<img src="/flexible-jekyll/assets/img/karofsky-full.jpg" alt="Peter Karofsky">
+<img src="/assets/img/karofsky-full.jpg" alt="Peter Karofsky">
