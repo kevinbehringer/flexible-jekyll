@@ -10,4 +10,4 @@ When the site was approved, I worked with our front-end developer to implement t
 
 <a href="https://uww.edu">UW-Whitewater Website »</a>
 
-<img src="/flexible-jekyll/assets/img/uww-full.jpg" alt="UWW">
+<img src="/assets/img/uww-full.jpg" alt="UWW">
