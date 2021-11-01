@@ -10,4 +10,4 @@ I developed and implemented the design, completed most of the copy writing, deve
 
 <a href="http://riverhillsonline.org">River Hills Community Church Website »</a>
 
-<img src="/flexible-jekyll/assets/img/rhcc-full.jpg" alt="River Hills Community Church">
+<img src="/assets/img/rhcc-full.jpg" alt="River Hills Community Church">
